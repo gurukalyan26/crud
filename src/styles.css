@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Carattere&family=Coda&family=Lato:wght@700&family=Montagu+Slab:opsz,wght@16..144,500;16..144,600&family=Ubuntu:ital,wght@0,300;1,300;1,400&display=swap');
+body {
+    font-family: 'Ubuntu', sans-serif !important;
+    background-color: #fcebe7;
+}
+
+.contact-img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.contact-big {
+    width: 200px;
+    border-radius: 50%;
+}

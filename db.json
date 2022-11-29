@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Dheeraj",
+      "email": "rajan@gmail.com",
+      "mobile": "9865412372",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219986.png",
+      "groupId": "3",
+      "company": "Youtube",
+      "title": "Youtuber"
+    },
+    {
+      "id": "Tv0Okjuy",
+      "name": "Harsha",
+      "email": "harsha@gmail.com",
+      "mobile": "9865729855",
+      "photo": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
+      "groupId": "2",
+      "company": "Friend",
+      "title": "Freelancer"
+    },
+    {
+      "id": "Sfvhy5hjj",
+      "name": "Sumanth",
+      "email": "sumanth@gmail.com",
+      "mobile": "8657298559",
+      "photo": "https://i.pinimg.com/474x/60/b4/7e/60b47e2dfdbe3f0e2adf74129fbea3b0.jpg",
+      "groupId": "5",
+      "company": "Phiser",
+      "title": "HR"
+    },
+    {
+      "name": "Guru Kalyan",
+      "photo": "https://cdn.iconscout.com/icon/free/png-256/laptop-user-1-1179329.png",
+      "email": "gurukalyan912@gmail.com",
+      "mobile": 7569597978,
+      "company": "smartfusing",
+      "title": "Saoftware Engineer",
+      "groupId": "3",
+      "id": "PQMfQuS"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Collegue"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Friend"
+    },
+    {
+      "id": "4",
+      "name": "Community"
+    },
+    {
+      "id": "5",
+      "name": "Service"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
